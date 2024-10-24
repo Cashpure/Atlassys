@@ -1,0 +1,24 @@
+@font-face {
+   font-family: inter;
+   src: local("inter"), local("inter-Regular"),
+   url(../fonts/Inter_28pt-Regular.woff2) format(woff2),
+   url(../fonts/Inter_28pt-Regular.woff) format(woff),
+   url(../fonts/Inter_28pt-Regular.eot) format(eot);
+   font-weight: 400;
+}
+@font-face {
+   font-family: inter;
+   src: local("inter"), local("inter-Medium"),
+   url(../fonts/Inter_28pt-Medium.woff2) format(woff2),
+   url(../fonts/Inter_28pt-Medium.woff) format(woff),
+   url(../fonts/Inter_28pt-Medium.eot) format(eot);
+   font-weight: 500;
+}
+@font-face {
+   font-family: inter;
+   src: local("inter"), local("inter-SemiBold"),
+   url(../fonts/Inter_28pt-SemiBold.woff2) format(woff2),
+   url(../fonts/Inter_28pt-SemiBold.woff) format(woff),
+   url(../fonts/Inter_28pt-SemiBold.eot) format(eot);
+   font-weight: 600;
+}
